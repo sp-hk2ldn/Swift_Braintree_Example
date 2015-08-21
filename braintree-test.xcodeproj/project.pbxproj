@@ -15,6 +15,7 @@
 		BDB9FD771B857C5300CAF50C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB9FD761B857C5300CAF50C /* Images.xcassets */; };
 		BDB9FD7A1B857C5300CAF50C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BDB9FD781B857C5300CAF50C /* LaunchScreen.xib */; };
 		BDB9FD861B857C5300CAF50C /* braintree_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDB9FD851B857C5300CAF50C /* braintree_testTests.swift */; };
+		BDE769311B86CFF0004A5AA7 /* BraintreeCustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE769301B86CFF0004A5AA7 /* BraintreeCustomViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +42,7 @@
 		BDB9FD7F1B857C5300CAF50C /* braintree-testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "braintree-testTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDB9FD841B857C5300CAF50C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BDB9FD851B857C5300CAF50C /* braintree_testTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = braintree_testTests.swift; sourceTree = "<group>"; };
+		BDE769301B86CFF0004A5AA7 /* BraintreeCustomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BraintreeCustomViewController.swift; sourceTree = "<group>"; };
 		DF0F5322E78FB3A7A8650BE9 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -105,6 +107,7 @@
 			children = (
 				BDB9FD6C1B857C5300CAF50C /* AppDelegate.swift */,
 				BDB9FD711B857C5300CAF50C /* ViewController.swift */,
+				BDE769301B86CFF0004A5AA7 /* BraintreeCustomViewController.swift */,
 				BDB9FD731B857C5300CAF50C /* Main.storyboard */,
 				BDB9FD761B857C5300CAF50C /* Images.xcassets */,
 				BDB9FD781B857C5300CAF50C /* LaunchScreen.xib */,
@@ -290,6 +293,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDE769311B86CFF0004A5AA7 /* BraintreeCustomViewController.swift in Sources */,
 				BDB9FD721B857C5300CAF50C /* ViewController.swift in Sources */,
 				BDB9FD701B857C5300CAF50C /* braintree_test.xcdatamodeld in Sources */,
 				BDB9FD6D1B857C5300CAF50C /* AppDelegate.swift in Sources */,

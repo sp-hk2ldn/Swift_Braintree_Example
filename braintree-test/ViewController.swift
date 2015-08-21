@@ -69,6 +69,7 @@ class ViewController: UIViewController, BTDropInViewControllerDelegate {
     }
     
     func postNonce(paymentMethodNonce: String) {
+        
         let paymentURL = NSURL(string: "https://braintree-homey-cltsang.c9.io/payment-methods")
         let request = NSMutableURLRequest(URL: paymentURL!)
         request.HTTPMethod = "POST"

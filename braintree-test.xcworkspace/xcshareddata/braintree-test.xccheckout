@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76566EC3-2C96-4F00-A5D3-14E6E5D9913B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>braintree-test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81E6748C5C0F3BE728B0BF032A95F5F8B4C7AE03</key>
+		<string>github.com:stephen-parker/Swift_Braintree_Example.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>braintree-test.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81E6748C5C0F3BE728B0BF032A95F5F8B4C7AE03</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:stephen-parker/Swift_Braintree_Example.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81E6748C5C0F3BE728B0BF032A95F5F8B4C7AE03</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81E6748C5C0F3BE728B0BF032A95F5F8B4C7AE03</string>
+			<key>IDESourceControlWCCName</key>
+			<string>braintree-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
