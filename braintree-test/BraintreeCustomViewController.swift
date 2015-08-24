@@ -41,7 +41,7 @@ class BraintreeCustomViewController: UIViewController, BTDropInViewControllerDel
     }
 
     
-    func paymentCardTextFieldDidChange(textField: STPPaymentCardTextField) {
+    func paymentCardTextFieldDidChange(textField: STPPaymentCardTextField) -> Void {
         if textField.valid == true {
             self.paymentRequest = BTClientCardRequest()
             self.paymentRequest?.number = textField.cardNumber
